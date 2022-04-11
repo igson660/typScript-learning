@@ -1,1 +1,1 @@
-# typScript-learning
+# TypScript-learning
